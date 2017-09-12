@@ -7,6 +7,8 @@ package com.myrestaurant.alex.myresturant;
 import android.support.test.rule.ActivityTestRule;
 import android.view.View;
 
+import com.myrestaurant.alex.myresturant.ui.RestaurantsActivity;
+
 import org.junit.Rule;
 import org.junit.Test;
 

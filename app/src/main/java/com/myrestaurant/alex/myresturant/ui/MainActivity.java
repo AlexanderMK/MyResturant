@@ -1,4 +1,4 @@
-package com.myrestaurant.alex.myresturant;
+package com.myrestaurant.alex.myresturant.ui;
 
 import android.content.Intent;
 import android.graphics.Typeface;
@@ -8,6 +8,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
+
+import com.myrestaurant.alex.myresturant.R;
 
 import butterknife.Bind;
 import butterknife.ButterKnife;
